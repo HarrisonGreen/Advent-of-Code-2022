@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 file = open("Data/day8.txt", "r")
 grid = np.zeros([99, 99])
